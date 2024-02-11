@@ -7,6 +7,7 @@ import com.nikhil.basic.livedata.viewmodel.dbindings.livedata.basics.databinding
 import com.nikhil.basic.livedata.viewmodel.dbindings.livedata.basics.viewmodel.MainActivityViewModel
 
 class MainActivity : AppCompatActivity() {
+
     private lateinit var binding: ActivityMainBinding
     private lateinit var viewModel: MainActivityViewModel
 
